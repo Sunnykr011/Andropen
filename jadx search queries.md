@@ -1,0 +1,4 @@
+getSharedPreferences
+|openOrCreateDatabase
+|Cipher.getInstance
+MessageDigest|getFilesDir|openFileOutput|OkHttpClient|HttpURLConnection|addJavascriptInterface|loadUrl|getContentResolver|ContentProvider|startService|sendBroadcast
